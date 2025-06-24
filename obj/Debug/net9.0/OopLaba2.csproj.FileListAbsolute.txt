@@ -1,0 +1,14 @@
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/bin/Debug/net9.0/OopLaba2
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/bin/Debug/net9.0/OopLaba2.deps.json
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/bin/Debug/net9.0/OopLaba2.runtimeconfig.json
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/bin/Debug/net9.0/OopLaba2.dll
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/bin/Debug/net9.0/OopLaba2.pdb
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/OopLaba2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/OopLaba2.AssemblyInfoInputs.cache
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/OopLaba2.AssemblyInfo.cs
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/OopLaba2.csproj.CoreCompileInputs.cache
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/OopLaba2.dll
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/refint/OopLaba2.dll
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/OopLaba2.pdb
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/OopLaba2.genruntimeconfig.cache
+/Users/kseniazaharova/Desktop/OopLaba2/OopLaba2/obj/Debug/net9.0/ref/OopLaba2.dll
